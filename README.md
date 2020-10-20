@@ -14,7 +14,7 @@
 
 
 # Características
-  - MAKE A DDOS
+  - Make a DDoS
  
 # Download
 Baixe diretamente do github com:
